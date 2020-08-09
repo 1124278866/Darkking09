@@ -4,7 +4,7 @@ from userbot.utils import admin_cmd
 from userbot import ALIVE_NAME
 from telethon.tl.types import ChannelParticipantsAdmins
 DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "Unknown"
-PM_IMG = "https://telegra.ph/file/1bd0d7cab236662a9ced8.jpg"
+PM_IMG = "https://telegra.ph/file/7a7a3ee35dbff00a9fae5.jpg"
 pm_caption = "**Dark King is Online.**\n"
 
 pm_caption += f"**M̴y̴ ̴B̴o̴s̴s̴**            : {DEFAULTUSER}\n"
